@@ -1,3 +1,5 @@
+# This file can read a jpg file and yield a txt file with the text items extracted.
+
 import pytesseract
 from PIL import Image
 import cv2
